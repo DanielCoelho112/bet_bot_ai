@@ -1,0 +1,19 @@
+»»12/12/2020
+
+-O objetivo é com base no Selenium aceder a um site de apostas (ver o mais facil de aceder) entrar, fazer login;
+
+-Aceder a um repositorio de jogos, obter intel ate aos 65 min, e treinar um modelo (Ficheiro á parte); Existem varios API que disponibilizam varios jogos!
+
+-Quando a rede estiver pronta, pensar em como obter os dados dos jogos em real time, no site de apostas em que estamos ou num sitio á parte?
+
+-Depois quando se souber a aposta para fazer, entrar no site de apostas, selecionar aba de jogos em direto, e com base no nome das equipas, descobrir botao html do proximo golo, depois escrrever o montante a apostar na textbox , e press enter!
+
+-Mas se faça a aposta, continuar ao processo de leitura de dados dos jogos...
+
+So se mete os dados na rede se o tempo de jogo for 65 min, +/- 1 min
+
+»»13/12/2020
+
+Objetivo Login:::::::::::::::::: CHECK!!   (Try2.py)
+
+Proximo Objetivo: Sabendo que quero apostar no Barcelona, como saber qual o seletor do botao que da a vitoria ao barcelona?
